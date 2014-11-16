@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf8 -*-
 
+# Simple keysigning party key submission server
+# Based on https://github.com/FOSDEM/keysigning
+
 import os
 import tempfile
 import subprocess
